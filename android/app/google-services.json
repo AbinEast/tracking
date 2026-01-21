@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421733565047",
+    "project_id": "vehicle-tracker-android-1537e",
+    "storage_bucket": "vehicle-tracker-android-1537e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421733565047:android:d96130f2ed8132140dbc72",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGco3VriCxtyHQngoPpnp1o8XsDqTnMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
